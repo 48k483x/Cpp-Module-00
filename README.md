@@ -1,5 +1,6 @@
 # 🗂 Project Structure
 
+```
 cpp00/
 ├── ex00/
 │   ├── Makefile
@@ -15,7 +16,7 @@ cpp00/
     ├── Account.cpp
     ├── Account.hpp
     └── tests.cpp
-
+```
 # 🎯 Module Overview
 
 This module introduces you to the basics of C++, covering:
